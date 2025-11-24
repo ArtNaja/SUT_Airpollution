@@ -15,5 +15,5 @@
     ใข้ streamlit run main.py  
     ตรวจสอบที่อยู่ไฟล์และชื่อไฟล์ของคุณให้ถูกต้อง  
     ตัวอย่าง  
-    ```bash 
+    ```bash
     streamlit run D:\Project_Airpollution\SUT_Airpollution\main.py
