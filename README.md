@@ -6,5 +6,11 @@
 
 1. **Clone โปรเจกต์** (ถ้ายังไม่มีไฟล์):
    ```bash
-   git clone https://docs.google.com/spreadsheets/d/1BTeyr9lM-VgkG0VjSgyThkm90h7Bl1PLg8f2F4xLbnI/edit?gid=0#gid=0
+   git clone https://github.com/ArtNaja/SUT_Airpollution
    cd SUT_Airpollution
+2. **ติดตั้ง Library**:
+    pip install -r requirements.txt
+3.  **วิธีรันโปรแกรม** (How to Run):
+    ใข้ streamlit run main.py
+    ตรวจสอบที่อยู่ไฟล์และชื่อไฟล์ของคุณให้ถูกต้อง
+    ตัวอย่าง streamlit run D:\Project_Airpollution\SUT_Airpollution\main.py
