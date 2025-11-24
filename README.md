@@ -9,8 +9,11 @@
    git clone https://github.com/ArtNaja/SUT_Airpollution
    cd SUT_Airpollution
 2. **ติดตั้ง Library**:
+    ```bash
     pip install -r requirements.txt
-3.  **วิธีรันโปรแกรม** (How to Run):
-    ใข้ streamlit run main.py
-    ตรวจสอบที่อยู่ไฟล์และชื่อไฟล์ของคุณให้ถูกต้อง
-    ตัวอย่าง streamlit run D:\Project_Airpollution\SUT_Airpollution\main.py
+3.  **วิธีรันโปรแกรม** (How to Run):  
+    ใข้ streamlit run main.py  
+    ตรวจสอบที่อยู่ไฟล์และชื่อไฟล์ของคุณให้ถูกต้อง  
+    ตัวอย่าง  
+    ```bash 
+    streamlit run D:\Project_Airpollution\SUT_Airpollution\main.py
