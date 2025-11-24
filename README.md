@@ -1,7 +1,7 @@
 # SUT_Airpollution
 
 # requirements.txt
-pip install streamlit
-pip install streamlit-gsheets
-pip install plotly
-'streamlit run main.py'
+streamlit
+pandas
+plotly
+st-gsheets-connection

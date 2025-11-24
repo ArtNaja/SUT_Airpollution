@@ -17,7 +17,7 @@ st.markdown("ระบบติดตามค่าฝุ่น PM2.5 ภาย
 # ---------------------------------------------------------
 # 2. เชื่อมต่อ Google Sheets
 # ⚠️ สำคัญ: อย่าลืมเปลี่ยน Link ด้านล่างเป็น Link Google Sheets ของคุณเอง
-url = "https://docs.google.com/spreadsheets/d/YOUR_SHEET_ID_HERE/edit?usp=sharing"
+url = "https://docs.google.com/spreadsheets/d/1BTeyr9lM-VgkG0VjSgyThkm90h7Bl1PLg8f2F4xLbnI/edit?gid=0#gid=0"
 
 # สร้าง Connection
 conn = st.connection("gsheets", type=GSheetsConnection)
